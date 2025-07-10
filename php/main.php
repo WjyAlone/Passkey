@@ -11,6 +11,5 @@
     echo $name;
     echo $name;
     ?>
-
 </body>
 </html>
