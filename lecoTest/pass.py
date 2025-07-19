@@ -6,3 +6,4 @@ class Solution:
         for s in strs[1:]:
             main_str = main_str[:len(main_str)-len(s)]
             
+            
